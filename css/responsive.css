@@ -1,0 +1,71 @@
+/* Tablet */
+@media screen and (max-width: 991px) {
+  .online{
+      display: block;
+      width: 100%;
+  }
+  .online .left h3{
+    padding-top: 30px;
+  }
+  .online .right img{
+      width: 100%;
+  }
+  /* end online section */
+  .course{
+    width: 100%;
+    display: block;
+    height: auto;
+    padding-top: 30px;
+  }
+  .course .left .img-bg{
+    width: 300px;
+    height: 300px;
+  }
+  .course .left .img-bg img{
+    width: 300px;
+    height: 300px;
+  }
+  .course .right{
+      padding-top: 20%;
+      padding-bottom: 20px;
+  }
+  .t-brain{
+      width: 100%;
+      display: block;
+      flex-direction: row;
+      height: auto;
+  }
+  .t-brain .right img{
+      width: auto;
+      padding-top: 10px;
+      display: flex;
+      justify-content: center;
+  }
+  .l-enjoy{
+      width: 100%;
+      height: auto;
+      background: grey;
+  }
+  .l-enjoy .main-content{
+      display: block;
+  }
+  .l-enjoy .main-content .left{
+      padding-bottom: 30px;
+  }
+  .o-learning{
+    display: block;
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+  }
+
+}
+
+
+@media screen and (max-width: 767px) {
+  
+}
+
+@media screen and (max-width: 479px) {
+  
+}
